@@ -8,7 +8,7 @@ const Contents = () => {
     <>
       <body className={classes.body}>
         <Typography className={classes.text}>
-          This is my basic react setting.
+          국내 코로나 현황
         </Typography>
       </body>
     </>
